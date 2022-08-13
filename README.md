@@ -2,7 +2,7 @@
 Lista JS
 
 # `Descrição`
-[Projeto desenvolvido na semana 4 do curso Labenu] </br>
+[Projeto desenvolvido na semana 2 do curso Labenu] </br>
 Este projeto consiste na resolução de uma lista de exercícios em linguagem JavaScript. Tratam-se de 12 exercícios e 3 desafios, onde todos foram resolvidos.
 Os exercícios abordam os assuntos de lógica de programação e elaboração de funções.
 
