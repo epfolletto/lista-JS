@@ -1,5 +1,5 @@
 # `Projeto`
-Lista JS
+Lista JavaScript
 
 # `Descrição`
 [Projeto desenvolvido na semana 2 do curso Labenu]. </br>
